@@ -6,14 +6,29 @@
 
 Created by @ZNS
 
+أوامر التنصيب
+
 How to install on Termux?
 pkg install php
 pkg install git
-git clone https://auliaahmad165/View-IG-Story-Mass/loop.zip
+git clone https://github.com/xznsx/kd
+
 unzip kd.zip
+
+sl
+
 php kd1s.zip
 
 Proxy type 3
+
 Speed type 0
 
 License key only IDR 50.000 dm me on Instagram
+
+------------------------------
+أوامر التشغيل : 
+
+cd kd/kd1s/
+
+php kd1s.php 
+
