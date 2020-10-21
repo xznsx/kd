@@ -23,6 +23,8 @@ unzip kd.zip
 
 cd kd1s
 
+php kd1s.php
+
 Proxy type 3
 
 Speed type 0
