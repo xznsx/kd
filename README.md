@@ -1,4 +1,4 @@
-# kd1s.com 
+# www.kd1s.com  
 
 
 # Masslooking-Story-Instagram
@@ -8,9 +8,13 @@ Created by @ZNS
 
 أوامر التنصيب
 
-How to install on Termux?
+How to install on Termux?.
+
 pkg install php
+
 pkg install git
+
+
 git clone https://github.com/xznsx/kd
 
 unzip kd.zip
@@ -32,3 +36,4 @@ cd kd/kd1s/
 
 php kd1s.php 
 
+.
