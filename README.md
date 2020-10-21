@@ -17,11 +17,11 @@ pkg install git
 
 git clone https://github.com/xznsx/kd
 
+cd kd
+
 unzip kd.zip
 
-sl
-
-php kd1s.zip
+cd kd1s
 
 Proxy type 3
 
