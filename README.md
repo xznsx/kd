@@ -21,13 +21,18 @@ cd kd
 
 unzip kd.zip
 
-cd kd1s
+
+
+
+أوامر التشغيل :
+
+cd kd/kd1s/
 
 php kd1s.php
 
 Proxy type 3
 
-Speed type 0
+Speed type 15,000
 
 License key only IDR 50.000 dm me on Instagram
 
